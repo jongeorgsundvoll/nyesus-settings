@@ -1,7 +1,7 @@
 {
-  "versionCheckEnabled": false,
-  "latestVersion": "1.0.7",
-  "minSupportedVersion": "1.0.3",
+  "versionCheckEnabled": true,
+  "latestVersion": "54.0.6",
+  "minSupportedVersion": "54.0.7",
   "versionMessage": "Forbedret funksjonalitet, oppdaterte kart og markører",
   "loggingEnabled": true
 }
