@@ -3,5 +3,5 @@
   "latestVersion": "1.0.7",
   "minSupportedVersion": "1.0.3",
   "versionMessage": "Forbedret funksjonalitet, oppdaterte kart og markører",
-  "loggingEnabled": false
+  "loggingEnabled": true
 }
