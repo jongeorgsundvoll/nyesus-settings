@@ -5,5 +5,5 @@
   "versionMessage": "Forbedret funksjonalitet, oppdaterte kart og markører",
   "loggingEnabled": true,
   "showInfoBox": true,
-  "infoBoxText": "Søketips: Møterom, Garderobe, Parkering"
+  "infoBoxText": "Søketips: møterom, garderobe, parkering, poliklinikk, akutt, seremoni, kapell, apotek"
 }
