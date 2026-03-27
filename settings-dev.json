@@ -4,6 +4,6 @@
   "minSupportedVersion": "54.0.6",
   "versionMessage": "Forbedret funksjonalitet, oppdaterte kart og markører",
   "loggingEnabled": true,
-  "showInfoBox": false,
-  "infoBoxText": ""
+  "showInfoBox": true,
+  "infoBoxText": "12345678901234567890"
 }
