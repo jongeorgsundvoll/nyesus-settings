@@ -6,5 +6,5 @@
   "loggingEnabled": true,
   "showInfoBox": true,
   "infoBoxText": "",
-  "welcomeDurationSeconds": 10
+  "welcomeDurationSeconds": 3
 }
