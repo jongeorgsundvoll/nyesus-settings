@@ -5,6 +5,6 @@
   "versionMessage": "Forbedret funksjonalitet, oppdaterte kart og markører",
   "loggingEnabled": true,
   "showInfoBox": true,
-  "infoBoxText": "Ny versjon!",
+  "infoBoxText": "",
   "welcomeDurationSeconds": 3
 }
