@@ -1,5 +1,5 @@
 {
-  "versionCheckEnabled": false,
+  "versionCheckEnabled": true,
   "latestVersion": "1.0.9",
   "minSupportedVersion": "1.0.3",
   "versionMessage": "Forbedret funksjonalitet, oppdaterte kart og markører",
