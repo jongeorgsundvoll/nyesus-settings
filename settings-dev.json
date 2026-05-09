@@ -1,8 +1,8 @@
 {
-  "versionCheckEnabled": true,
-  "latestVersion": "55.1.0",
+  "versionCheckEnabled": false,
+  "latestVersion": "1.1.0",
   "minSupportedVersion": "1.0.7",
-  "versionMessage": "Forbedret funksjonalitet, oppdaterte kart og markører.\nNytt ikon.",
+  "versionMessage": "- flere områder\n- flere møterom\n- telefonnummer med mulighet for å ringe",
   "loggingEnabled": true,
   "showInfoBox": true,
   "infoBoxText": "",
