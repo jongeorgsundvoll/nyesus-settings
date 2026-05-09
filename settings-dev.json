@@ -4,7 +4,7 @@
   "minSupportedVersion": "1.0.7",
   "versionMessage": "Forbedringer i ny versjon:\n- flere områder\n- flere møterom\n- telefonnr, mulighet for å ringe",
   "loggingEnabled": true,
-  "showInfoBox": false,
+  "showInfoBox": true,
   "infoBoxText": "",
   "welcomeDurationSeconds": 3
 }
