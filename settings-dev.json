@@ -3,8 +3,8 @@
   "latestVersion": "1.1.0",
   "minSupportedVersion": "1.0.7",
   "versionMessage": "Forbedringer i ny versjon:\n- flere områder\n- flere møterom\n- telefonnr, mulighet for å ringe",
-  "loggingEnabled": true,
-  "showInfoBox": true,
+  "loggingEnabled": false,
+  "showInfoBox": false,
   "infoBoxText": "",
   "welcomeDurationSeconds": 3
 }
