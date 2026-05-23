@@ -5,6 +5,5 @@
   "versionMessage": "Forbedringer i ny versjon:\n- flere områder\n- flere møterom\n- telefonnr, mulighet for å ringe",
   "loggingEnabled": true,
   "showInfoBox": true,
-  "infoBoxText": "",
-  "welcomeDurationSeconds": 3
+  "infoBoxText": ""
 }
