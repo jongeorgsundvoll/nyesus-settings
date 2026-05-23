@@ -5,6 +5,5 @@
   "versionMessage": "Nylige forbedringer:\n- zoom-funksjon\n- xxx\n- xxx",
   "loggingEnabled": true,
   "showInfoBox": true,
-  "infoBoxText": "",
-  "welcomeDurationSeconds": 1
+  "infoBoxText": ""
 }
