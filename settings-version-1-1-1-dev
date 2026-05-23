@@ -1,0 +1,10 @@
+{
+  "versionCheckEnabled": false,
+  "latestVersion": "1.1.1",
+  "minSupportedVersion": "1.0.7",
+  "versionMessage": "Nylige forbedringer:\n- zoom-funksjon\n- xxx\n- xxx",
+  "loggingEnabled": true,
+  "showInfoBox": true,
+  "infoBoxText": "",
+  "welcomeDurationSeconds": 1
+}
