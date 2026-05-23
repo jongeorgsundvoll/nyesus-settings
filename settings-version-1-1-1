@@ -1,0 +1,10 @@
+{
+  "versionCheckEnabled": false,
+  "latestVersion": "1.1.1",
+  "minSupportedVersion": "1.0.7",
+  "versionMessage": "Forbedringer i ny versjon:\n- flere områder\n- flere møterom\n- telefonnr, mulighet for å ringe",
+  "loggingEnabled": true,
+  "showInfoBox": true,
+  "infoBoxText": "",
+  "welcomeDurationSeconds": 3
+}
