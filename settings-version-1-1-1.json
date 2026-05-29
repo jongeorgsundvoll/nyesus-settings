@@ -2,7 +2,7 @@
   "versionCheckEnabled": false,
   "latestVersion": "1.1.1",
   "minSupportedVersion": "1.0.7",
-  "versionMessage": "Forbedringer i ny versjon:\n- flere områder\n- flere møterom\n- telefonnr, mulighet for å ringe",
+  "versionMessage": "Ny funksjonalitet:\nDet er nå mulig å zoome i kartet!\nDobbelklikk eller bruk to fingre for å zoome inn/ut.",
   "loggingEnabled": true,
   "showInfoBox": true,
   "infoBoxText": ""
