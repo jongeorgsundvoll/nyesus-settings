@@ -2,7 +2,7 @@
   "versionCheckEnabled": false,
   "latestVersion": "1.1.1",
   "minSupportedVersion": "1.0.7",
-  "versionMessage": "Nylige forbedringer i versjon 1.1.1:\n- zoom-funksjon\n- xxx\n- xxx",
+  "versionMessage": "Nylige forbedringer i versjon 1.1.1:\n- Zoom-funksjon på kart:\n  Dobbelklikk for å zoome inn/ut",
   "loggingEnabled": true,
   "showInfoBox": true,
   "infoBoxText": ""
