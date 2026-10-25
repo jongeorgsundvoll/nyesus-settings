@@ -2,7 +2,7 @@
   "versionCheckEnabled": false,
   "latestVersion": "1.1.2",
   "minSupportedVersion": "1.0.1",
-  "versionMessage": "Ny funksjonalitet:\nDet er nå mulig å zoome i kartet!\nDobbelklikk eller bruk to fingre for å zoome inn/ut.",
+  "versionMessage": "DEV - Ny funksjonalitet:\nNye områder er lagt inn, blant annet alle heiser.",
   "loggingEnabled": true,
   "showInfoBox": true,
   "infoBoxText": ""
