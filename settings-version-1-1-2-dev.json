@@ -2,7 +2,7 @@
   "versionCheckEnabled": false,
   "latestVersion": "58.0.5",
   "minSupportedVersion": "58.0.4",
-  "versionMessage": "DEV - Ny funksjonalitet:\nNye områder er lagt inn, blant annet heiser, sengeautomater og spiserom for pasienter.",
+  "versionMessage": "DEV\nNye områder er lagt inn, blant annet heiser, sengeautomater og spiserom for pasienter.",
   "loggingEnabled": true,
   "showInfoBox": true,
   "infoBoxText": ""
