@@ -2,7 +2,7 @@
   "versionCheckEnabled": false,
   "latestVersion": "1.1.2",
   "minSupportedVersion": "1.1.1",
-  "versionMessage": "Ny funksjonalitet:\nNye områder er lagt inn, blant annet alle heiser.",
+  "versionMessage": "Ny funksjonalitet:\nNye områder er lagt inn, blant annet heiser, sengeautomater og spiserom for pasienter.",
   "loggingEnabled": true,
   "showInfoBox": true,
   "infoBoxText": ""
